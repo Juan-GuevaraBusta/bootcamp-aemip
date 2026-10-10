@@ -1,6 +1,8 @@
 # Roadmap de 90 días — COPE en tiendas de barrio (estratos 2 y 3)
 
-**Cliente:** Platanitos COPE · **Canal:** Distritiendas, tienda a tienda · **Horizonte:** 13 semanas, sin anclar el plan a una temporada del año · **Presupuesto cerrado:** COP 10.000.000 · **Nada de lo vendido se reinvierte en este plan** · **Fecha de corte:** 10 de octubre de 2026
+**Cliente:** Platanitos COPE · **Canal:** Distritiendas, tienda a tienda · **Horizonte:** 13 semanas, sin anclar el plan a una temporada del año · **Ingreso:** COP 30 millones al mes, COP 90 millones en el trimestre · **Fecha de corte:** 10 de octubre de 2026
+
+Los recursos (presupuesto, bandejas, bonos, pauta) se retoman en otro documento. Este no los asigna.
 
 **Para pasarlo a Word:** conservar los títulos (`#`, `##`, `###`) como Título 1, 2 y 3, y las tablas como tablas de Word. Cada anexo puede ir a una sección propia.
 
@@ -12,7 +14,7 @@
 
 COPE no compra notoriedad. Compra **rotación que el distribuidor pueda ver**.
 
-En 90 días, con COP 10.000.000 que no se reponen con las ventas, el plan recomendado es un sistema de entrada a la tienda: bandeja brandeada, pedido sugerido, bono del vendedor pagado solo si la tienda recompra, prueba en la puerta de esa misma tienda, y la historia de la abuela como prueba de origen en Instagram. La radio (solo La Mega 92.5, Tropicana 93.1 y Mix Radio 101.5, las tres en Cali) y los colegios no abren el plan. La radio de lista no cabe en el presupuesto. Los colegios de Cali tienen una restricción normativa que este equipo aún no puede levantar sin la etiqueta nutricional.
+El plan es un sistema de entrada a la tienda, y el motor son **14 vendedores** que convencen tenderos cada día: bandeja, pedido de 2 displays y, en la pasada siguiente de la misma ruta, 3 displays más si ya salió la mitad. La historia de la abuela en Instagram dice en qué tienda está. La radio (solo La Mega 92.5, Tropicana 93.1 y Mix Radio 101.5, las tres en Cali) no abre tiendas. Los colegios siguen cerrados por la norma local.
 
 La meta de ingreso es plana: **COP 30 millones en el mes 1, COP 30 millones en el mes 2 y COP 30 millones en el mes 3**. El promedio es COP 30 millones al mes y el trimestre suma **COP 90 millones**. No hay rampa. Un mes por debajo de 30 millones rompe el promedio y pone en riesgo el código.
 
@@ -41,15 +43,15 @@ Las tres señales que este plan puede cotizar:
 | Tropicana Cali | 93.1 FM | Caracol S.A. (PRISA) | Pauta o remoto **solo de Tropicana Cali** | Cualquier otra marca de Caracol (W Radio, Los 40, Bésame) |
 | Mix Radio Cali | 101.5 FM | Organización Radial Olímpica, Grupo Empresarial Olímpica. Es la Mix del grupo de Olímpica Stereo | Pauta o remoto **solo de Mix Cali** | Mix Bogotá (92.9), Mix Medellín (89.9) y el resto de la cadena. Tampoco se cambia el plan a Olímpica Stereo Cali (104.5 FM): es emisora hermana, no la del encargo |
 
-Mix Radio es marca de la Organización Radial Olímpica. Su propietaria es el Grupo Empresarial Olímpica, la misma casa de Olímpica Stereo. En Cali transmite en **101.5 FM** desde el 1 de agosto de 2022 (antes estuvo en 102.5). El eslogan de la marca es "El sonido de la calle" y el formato es urbano (Mix Radio (Colombia), s. f.). `[EXT-C]`: la ficha es de Wikipedia; la instrucción de este encargo confirma que la Mix del plan es la de Cali de ese grupo. Olímpica Stereo Cali, emisora hermana, está en 104.5 FM (Olímpica Stereo, s. f.). No entra al presupuesto.
+Mix Radio es marca de la Organización Radial Olímpica. Su propietaria es el Grupo Empresarial Olímpica, la misma casa de Olímpica Stereo. En Cali transmite en **101.5 FM** desde el 1 de agosto de 2022 (antes estuvo en 102.5). El eslogan de la marca es "El sonido de la calle" y el formato es urbano (Mix Radio (Colombia), s. f.). `[EXT-C]`: la ficha es de Wikipedia; la instrucción de este encargo confirma que la Mix del plan es la de Cali de ese grupo. Olímpica Stereo Cali, emisora hermana, está en 104.5 FM (Olímpica Stereo, s. f.). No es la emisora de este plan.
 
-**La Mega Cali (92.5 FM).** El tarifario comercial RCN 2025 describe, para La Mega local, diez patrocinios diarios con presentación y cuña en vivo de hasta 15 segundos, de lunes a sábado, entre las 10:00 y las 19:00, "por La Mega de la ciudad elegida". En ese bloque aparecen Bogotá (90.9 FM), Medellín (92.9 FM) y Cali (92.5 FM). En la columna de valor neto mes, la tercera cifra —el puesto de Cali si el orden de ciudades se conserva— es **COP 33.872.500 al mes**. Medellín figura con el mismo valor. Un remoto de una hora, en el bloque "Directos" del mismo documento, muestra **COP 3.891.000** en el puesto de Cali, otra vez igual que Medellín (RCN Radio, 2025). `[EXT-C]` por un motivo concreto: el PDF se extrajo en texto y una columna puede correrse. Aun así el orden de magnitud se sostiene. El paquete más bajo de esa lista de doce ciudades es COP 7.579.000 al mes. **Cualquier mes de La Mega Cali a tarifa de lista se come el presupuesto del trimestre, o se lo come casi entero.** El reloj nacional ni se cotiza.
+**La Mega Cali (92.5 FM).** El tarifario comercial RCN 2025 describe, para La Mega local, diez patrocinios diarios con presentación y cuña en vivo de hasta 15 segundos, de lunes a sábado, entre las 10:00 y las 19:00, "por La Mega de la ciudad elegida". En ese bloque aparecen Bogotá (90.9 FM), Medellín (92.9 FM) y Cali (92.5 FM). En la columna de valor neto mes, la tercera cifra —el puesto de Cali si el orden de ciudades se conserva— es **COP 33.872.500 al mes**. Medellín figura con el mismo valor. Un remoto de una hora, en el bloque "Directos" del mismo documento, muestra **COP 3.891.000** en el puesto de Cali, otra vez igual que Medellín (RCN Radio, 2025). `[EXT-C]` por un motivo concreto: el PDF se extrajo en texto y una columna puede correrse. Aun así el orden de magnitud se sostiene. El paquete más bajo de esa lista de doce ciudades es COP 7.579.000 al mes. **Un mes de La Mega Cali a tarifa de lista está en decenas de millones.** No es la herramienta con la que los 14 vendedores abren tiendas. El reloj nacional ni se cotiza.
 
 **Tropicana Cali (93.1 FM)** es de Caracol S.A., parte de PRISA. Las marcas que esa sociedad declara incluyen Tropicana; no incluyen Mix (Caracol Radio, s. f.; Tropicana, 2025). **No hay tarifario público de Tropicana Cali** en esta investigación. Pedir cotización de la señal de Cali. No inventar el precio.
 
 **Mix Radio Cali (101.5 FM).** No apareció un tarifario público de esta señal. La cotización se pide a la comercial de Mix Cali o de la Organización Radial Olímpica en Cali, y se rechaza si el paquete incluye otras ciudades de Mix o se cambia por Olímpica Stereo. Precios de revendedores para Mix en Bogotá o Medellín no se usan: son otra plaza.
 
-**Decisión.** El incentivo real (facturar un paquete de la señal de Cali) y el presupuesto (COP 10 millones en tres meses, sin reponer) no se encuentran en La Mega a tarifa de lista. Tropicana Cali y Mix Cali se tratan igual hasta tener su cotización local: no se les asigna un precio inventado. La radio no es el medio del plan. Es una opción con tope de **COP 1.600.000 en el trimestre (16 %)**, que solo se gira si **una** de las tres señales de Cali acepta por escrito un paquete dentro de ese tope y el mensaje nombra barrio y tienda ya surtida. Si en la semana 2 ninguna cotización local cabe, esos COP 1.600.000 pasan a muestreo en tienda. Ese traslado está decidido ahora. No es reinversión de ventas. La FM de Cali suele oírse en Yumbo, Palmira y Jamundí; **Darién no se da por cubierto** hasta que la emisora lo confirme `[VALIDAR]`.
+**Decisión.** La emisora cobra por un paquete de su señal de Cali. Eso no convence al tendero. Quien abre la tienda es el vendedor, en la visita del día. La radio, si algún día se usa, solo puede nombrar un barrio donde la bandeja ya está. La FM de Cali suele oírse en Yumbo, Palmira y Jamundí; **Darién no se da por cubierto** hasta que la emisora lo confirme `[VALIDAR]`. Cuánto cuesta esa pauta se deja para el documento de recursos.
 
 ### 2.2 ¿Cómo la activación genera compra y recompra en la tienda?
 
@@ -155,11 +157,26 @@ Hace falta que **cerca de 9 de cada 10 tiendas** acepten esa segunda visita. No 
 | Días 13 a 30 | Las otras 800 abren con 2 displays, y las que ya venden reciben 3 más | 4.249 | COP 27,4 millones |
 | **Cierre del mes** | **1.000 tiendas en ritmo de una bolsa al día** | **4.649** | **COP 30,0 millones** |
 
-Los meses 2 y 3 no abren ciudades nuevas. Las mismas 1.000 tiendas repiten 4,6 displays. Jamundí y Darién entran solo si ya están dentro de esas 1.000 rutas. Sumar puntos por fuera de las 1.000, con el mismo presupuesto de bandejas, baja el promedio por tienda y aleja los 30 millones.
+### 4.4 Quién abre esas tiendas: 14 personas, cada día
 
-**Puerta del día 12.** En las 200 tiendas del arranque, al menos media bolsa al día tiene que haber salido (unas 6 de las 12 en diez días). Si no salió, no se cargan 3 displays más en las otras 800. El mes 1 quedaría por debajo de 30 millones. Se corrige bandeja y guion una semana y se repite el conteo en las mismas 200. Un segundo conteo flojo significa que el trimestre no puede promediar 30 millones sin dejar inventario quieto. Eso no se hace. La meta no se "completa" con una factura que el tendero no va a vender.
+El crecimiento no es una fase. Es la suma de los síes del día. Hay **14 vendedores** (9 en Cali y 5 en La Viajera). Cada uno convence tenderos en la ruta que ya camina, con un catálogo grande encima `[REUNIÓN]`.
 
-### 4.4 Objetivos de marca (sin confundirlos con la codificación)
+"60 tiendas en 6 días" sigue teniendo dos lecturas (A2). Las dos cambian el ritmo:
+
+| Lectura | Ritmo por vendedor | Libro de un ciclo | Qué pasa con los COP 30 millones |
+|---|---|---|---|
+| 60 tiendas **en** 6 días | 10 tiendas al día | 14 × 60 = **840 tiendas** | 840 × 4,65 displays ≈ **COP 25 millones**. Faltan unas 160 tiendas, o hay que subir a cerca de **5,5 displays** en esas 840 |
+| 60 tiendas **al día** × 6 días × 14 | 60 visitas al día | **5.040 visitas** | 1.000 tiendas caben en la semana. El límite no es llegar. Es que el tendero diga que sí en una visita que ya trae otras marcas |
+
+Para tener 1.000 primeras compras en unos 20 días de ruta hace falta **3,6 síes nuevos por vendedor por día** (1.000 ÷ 14 ÷ 20) `[CALC]`. Los 9 de Cali y los 5 de La Viajera no comparten esa cuota hasta saber cuántas tiendas ve cada uno.
+
+La segunda compra no es una visita inventada. Si la ruta vuelve cerca de cada 6 días, los 3 displays siguientes se piden **en la pasada siguiente**. Si esa pasada no cae dentro del mes, el mes se queda en la primera compra: 1.000 tiendas × 2 displays ≈ **COP 12,9 millones**, y el promedio de 30 se rompe.
+
+**Puerta de los primeros 6 días de ruta.** Si el promedio de síes nuevos baja de 2 por vendedor por día, el mes no va hacia los 30 millones. Se corrige el guion antes de dejar 3 displays más. Un segundo ciclo igual de flojo significa que el trimestre no puede promediar 30 millones sin dejar inventario quieto. Eso no se hace.
+
+Los meses 2 y 3 no abren ciudades para tapar un mes corto. Las mismas tiendas repiten 4,6 displays en la pasada de siempre. Jamundí y Darién entran solo si ya están en la ruta de alguno de los 14.
+
+### 4.5 Objetivos de marca (sin confundirlos con la codificación)
 
 - Cada pieza de Instagram del trimestre cierra con un barrio y una tienda real, no con un llamado genérico a "buscar COPE".
 - Cero pauta. Los 50.000 seguidores se usan; no se compran más.
@@ -169,13 +186,13 @@ Los meses 2 y 3 no abren ciudades nuevas. Las mismas 1.000 tiendas repiten 4,6 d
 
 ## 5. Qué se eligió y qué se descartó
 
-| Opción | Tesis | Qué tiene que ser cierto | Uso de los COP 10 M | Riesgo | Decisión |
-|---|---|---|---|---|---|
-| 0. No hacer nada | El código se gana solo con el vendedor y el catálogo | El tendero prueba una marca nueva sin exhibición ni razón para recomprar | COP 0 | Sale del catálogo. El vendedor tiene marcas que ya rotan | Descartada |
-| 1. Tres emisoras + colegios | El barrio se entera y el colegio empuja la lonchera | Cabe la tarifa y el producto puede estar en el colegio | Se agota en un mes de La Mega, sin tienda surtida | Tarifa de lista y norma escolar | Descartada como vía principal |
-| 2. Tocar las 5.040 visitas con incentivo mínimo | Más puntos, menos peso por punto | El vendedor prioriza a COPE en una visita de catálogo largo | Se diluye en muchas bandejas flojas | 0,18 bolsas al día no crean hábito ni evidencia | Descartada para estos 90 días |
-| 3. **Densidad: 1.000 tiendas a 4,6 displays cada mes** | El promedio de COP 30 millones sale de la misma tienda comprando dos veces en el mes | 9 de cada 10 tiendas aceptan la segunda visita; la bandeja cabe a ≤ COP 2.200 | 100 % del sobre, con el pico en el mes 1 | Si el día 12 las primeras 200 no venden, no se carga el resto | **Elegida** |
-| 4. Solo Instagram | 50.000 seguidores alcanzan | Quien ve el video compra en una tienda de estrato 2–3 | Casi todo a contenido | Ya pasó: después de Vaki preguntaban dónde estaba | Descartada sola; queda como capa de la opción 3 |
+| Opción | Tesis | Qué tiene que ser cierto | Riesgo | Decisión |
+|---|---|---|---|---|
+| 0. No hacer nada | El código se gana solo con el vendedor y el catálogo | El tendero prueba una marca nueva sin exhibición ni razón para recomprar | Sale del catálogo. El vendedor tiene marcas que ya rotan | Descartada |
+| 1. Tres emisoras + colegios | El barrio se entera y el colegio empuja la lonchera | La visita del vendedor no hace falta | Tarifa de lista y norma escolar. La emisora no convence al tendero | Descartada como vía principal |
+| 2. Tocar las 5.040 visitas con un display flojo | Más puntos, menos peso por punto | El vendedor prioriza a COPE en una visita de catálogo largo | 0,18 bolsas al día no llegan a COP 30 millones | Descartada para estos 90 días |
+| 3. **14 vendedores, cuota diaria, segunda pasada en el mismo mes** | El promedio de COP 30 millones sale de síes diarios y de la recompra en la ruta que ya existe | Cerca de 3,6 síes nuevos por vendedor por día, y la ruta vuelve dentro del mes | Si en 6 días no hay 2 síes al día por vendedor, no se carga el segundo pedido | **Elegida** |
+| 4. Solo Instagram | 50.000 seguidores alcanzan | Quien ve el video compra en una tienda de estrato 2–3 | Ya pasó: después de Vaki preguntaban dónde estaba | Descartada sola; queda como capa de la opción 3 |
 
 La opción 3 es una innovación de **modelo comercial** (exhibición + pedido + pago por recompra + mapa de tiendas), no una campaña. Eso es lo que pide la categoría Innovación y Desarrollo.
 
@@ -185,108 +202,56 @@ La opción 3 es una innovación de **modelo comercial** (exhibición + pedido + 
 
 Trece semanas. Ninguna fase usa Navidad, inicio de clases ni otro calendario. Si el arranque real cae encima de una fecha fuerte, se revisa el plan; no está diseñado para eso.
 
-### Fase 0 — Días 1 a 5 del mes 1. Dejar lista la ruta
+### Fase 0 — Antes de la primera ruta del mes 1
 
-**Qué pasa.** Se cierra, en cinco días, lo que cambia el dinero: los COP 30 millones se miden a precio del tendero salvo que Distritiendas diga otra cosa por escrito (A1). Se confirma la lista de **1.000 tiendas** sobre las rutas que ya existen, en estrato 2–3 de Cali y, si la ruta ya pasa, Yumbo o Palmira. Se cotiza la bandeja y se encarga el lote del mes 1. Se cotizan solo La Mega Cali (92.5), Tropicana Cali (93.1) y Mix Radio Cali (101.5), con el tope escrito y sin cadena nacional. Se escribe el guion: primera visita 2 displays, segunda visita del mismo mes 3 displays si ya salió la mitad. Se graba el primer bloque con la abuela. El colegio sigue cerrado (anexo D).
+**Qué pasa.** Se cierra a qué precio se miden los COP 30 millones (A1) y cuál de las dos lecturas de "60 tiendas" es la real (A2). Se reparte la cuota: no es la misma para los 9 de Cali y los 5 de La Viajera hasta contar sus visitas diarias. El guion cabe en la visita que ya hacen: primera pasada, 2 displays; pasada siguiente del mismo mes, 3 displays si ya salió la mitad. Se graba el primer bloque con la abuela. El colegio sigue cerrado (anexo D).
 
-**Hito de salida.** Acta con Distritiendas: la segunda visita cae dentro del mes, y el bono de ruta se paga solo si esa segunda visita ocurrió. Sin esa acta no hay despacho masivo.
+**Hito de salida.** Cada vendedor sale con su número de síes del día y con el día en que esa ruta vuelve.
 
-### Fase 1 — Días 6 a 12 del mes 1. Prueba de salida en 200 tiendas
+### Fase 1 — Primeros 6 días de ruta
 
-**Qué pasa.** 200 tiendas, bolsa de 32 g, 2 displays, bandeja en la caja. Prueba en la puerta solo en las tiendas ancla de esos clusters. **No hay radio. No hay colegio.** Instagram publica con el nombre de esas tiendas. La bolsa de 128 g no entra.
+**Qué pasa.** Los 14 ofrecen COPE en las tiendas de estrato 2–3 que ya visitan. Pedido de 2 displays. Instagram publica solo tiendas que dijeron que sí. No hay colegio. La bolsa de 128 g no entra en la meta.
 
-**Hito de salida (día 12).** En esas 200, salió al menos media bolsa al día. Si sí, el día 13 se abren las otras 800. Si no, no se abren (sección 4.3).
+**Hito de salida.** Promedio de síes nuevos por vendedor por día. Si está por debajo de 2, no se deja el segundo pedido de 3 displays (sección 4.4).
 
-### Fase 2 — Día 13 del mes 1 hasta el cierre del mes 3. Sostener 4,6 displays
+### Fase 2 — Resto del mes 1, y los meses 2 y 3
 
-**Qué pasa.** Las 1.000 tiendas quedan abiertas en el mes 1 y se reponen en el mes 2 y en el mes 3 al mismo volumen: 4.649 displays por mes. Cada tienda que ya vendió la mitad del primer pedido recibe 3 displays más antes de que el mes cierre. Las jornadas *La visita de la abuela* caen en cuadras que ya tienen bandeja: una al final del mes 1, y el resto en los meses 2 y 3. La radio, si cupo en COP 1.600.000, solo nombra barrios ya surtidos y no entra en el mes 1. La bolsa de 128 g sigue fuera de la meta de los 30 millones.
+**Qué pasa.** En cada pasada siguiente, el vendedor deja 3 displays más donde ya salió la mitad. El mes tiene que cerrar en 4.649 displays. Los meses 2 y 3 repiten ese volumen en las mismas tiendas. La jornada *La visita de la abuela* solo ocurre en una cuadra que esos 14 ya surtieron. La bolsa de 128 g sigue fuera de los 30 millones.
 
-**Hito de cada mes.** Venta a precio del tendero ≥ COP 30 millones, con 1.000 tiendas vivas y segunda visita hecha en cerca de 9 de cada 10. Un mes por debajo de eso se reporta el mismo día que se ve, no al cierre del trimestre.
+**Hito de cada mes.** Venta a precio del tendero ≥ COP 30 millones. Un mes por debajo se dice ese día.
 
-### Fase 3 — Semana 13. Evidencia del código
+### Fase 3 — Cierre del día 90
 
-**Qué pasa.** Se entrega a Distritiendas el tablero de los tres meses: displays, tiendas vivas, segunda visita, venta. Se escribe el memorando de estrato 4 (sección 10). No se entra a estrato 4 con este presupuesto. No se hace una factura de cierre para maquillar un mes corto.
-
----
-
-## 7. Recursos y presupuesto
-
-### 7.1 Regla del sobre
-
-COP 10.000.000 es un sobre cerrado. Las ventas del trimestre **no** alimentan más pauta, más jornadas ni más ciudades. Si una línea gasta de menos, el saldo queda en medición o se devuelve. No abre un canal nuevo. La única excepción está escrita de antemano: si la radio no cabe, su cupo pasa a muestreo en tienda (día 5).
-
-### 7.2 Cuánto gastar cada mes
-
-El gasto sigue al ingreso. Como los COP 30 millones tienen que existir en el mes 1, el pico del sobre va al mes 1: bandejas de las 1.000 tiendas, bono de la segunda visita y muestreo para que las primeras 12 bolsas salgan antes de que el mes cierre. El mes 2 y el mes 3 sostienen la misma recompra. La radio no se compra en el mes 1.
-
-| | Mes 1 | Mes 2 | Mes 3 | Total |
-|---|---:|---:|---:|---:|
-| Porcentaje del sobre | **44 %** | **30 %** | **26 %** | **100 %** |
-| Pesos | **4.400.000** | **3.000.000** | **2.600.000** | **10.000.000** |
-| Ingreso que ese gasto tiene que acompañar | **30 millones** | **30 millones** | **30 millones** | **90 millones** |
-
-### 7.3 En qué se va cada peso
-
-| Línea | Mes 1 | Mes 2 | Mes 3 | Total | % | Para qué |
-|---|---:|---:|---:|---:|---:|---|
-| Bandeja y material de exhibición | 2.200.000 | 0 | 0 | 2.200.000 | 22 % | Las 1.000 bandejas salen en el mes 1. Sin ellas no hay dónde reponer las 4,6 displays |
-| Bono de ruta, solo si hubo segunda visita | 600.000 | 600.000 | 600.000 | 1.800.000 | 18 % | Cada mes paga la recompra que completa los 30 millones. Lo no pagado no se mueve a otro rubro |
-| Muestreo en la tienda | 700.000 | 600.000 | 400.000 | 1.700.000 | 17 % | Que las primeras 12 bolsas salgan dentro del mes. Incluye el fallback de la radio |
-| Activación de barrio | 200.000 | 500.000 | 500.000 | 1.200.000 | 12 % | Una jornada al cierre del mes 1 y el resto donde ya hay recompra |
-| Radio, solo señal de Cali (tope) | 0 | 800.000 | 800.000 | 1.600.000 | 16 % | Mega 92.5, Tropicana 93.1 o Mix 101.5, una sola, desde el mes 2. Si no cabe, pasa a muestreo |
-| Producción con la abuela, sin pauta | 400.000 | 200.000 | 100.000 | 700.000 | 7 % | Grabación y edición simple. Cero pauta en Instagram |
-| Medición de campo | 300.000 | 300.000 | 200.000 | 800.000 | 8 % | Conteo del día 12 y cierre de cada mes contra COP 30 millones |
-| Colegios | 0 | 0 | 0 | 0 | 0 % | Cerrado hasta el anexo D |
-| **Total** | **4.400.000** | **3.000.000** | **2.600.000** | **10.000.000** | **100 %** | |
-
-### 7.4 Qué compra cada línea, en unidades
-
-- **Bandeja.** COP 2.200.000 alcanzan para 1.000 bandejas solo si cada una cuesta **COP 2.200 o menos**. Esas 1.000 son justo las tiendas de la meta. Si la bandeja cuesta más, bajan las tiendas y, con ellas, la posibilidad de promediar 30 millones. El costo real está sin cotizar `[VALIDAR]`.
-- **Bono.** No se paga por tienda a COP 8.000: 1.000 segundas visitas al mes, por tres meses, costarían COP 24 millones, más que el sobre entero. El bono es de **ruta**: COP 600.000 al mes entre los 14 vendedores (cerca de COP 43.000 por vendedor al mes) **solo si** su grupo de tiendas hizo la segunda visita y el mes va camino de los 4,6 displays. Si el mes no llega, ese mes no se paga. El saldo no se convierte en radio ni en jornada. `[CALC]`
-- **Muestreo.** Sin costo de producto no hay número honesto de bolsas. A COP 1.600 (precio al público, techo peor que el costo) la línea compra unas 1.062 bolsas. Con el costo real salen más. Pedir el costo en la semana 1. Diseño mínimo: una ocasión de prueba por tienda ancla del piloto, y luego en cada jornada.
-- **Radio.** COP 1.600.000 son cerca del **5 %** de un mes de patrocinio de La Mega **Cali** (92.5), si la cifra de COP 33.872.500 se confirma, y cerca del **41 %** de un remoto de una hora si la cifra de COP 3.891.000 se confirma (RCN Radio, 2025). Esa comparación es solo de la señal de Cali. Tropicana Cali y Mix Radio Cali (101.5, grupo Olímpica) no tienen tarifario público: entran al mismo tope o no se compran. No alcanza para frecuencia. Por eso la base del plan es no comprar, y la compra es la excepción.
-- **Tercer display gratis.** No está en el sobre. Un display regalado por tienda, en 1.000 tiendas, vale seis veces el costo del producto. Sin ese costo no se promete. Si COPE o Distritiendas lo financian **por fuera** de los COP 10 millones, se usa como variante A del piloto. Si no, no existe.
-
-### 7.5 Personas
-
-| Quién | Qué hace en estos 90 días | Qué no hace |
-|---|---|---|
-| David Arango | Cierra precio, costo y la conversación con Distritiendas. Aparece en el contenido si la abuela no puede | No administra el tablero semanal |
-| La abuela | Graba la receta y, si puede, va a las jornadas | No se le pide una agenda de medios |
-| 14 vendedores de Distritiendas | Ofrecen el guion, instalan la bandeja, vuelven el día escrito | No son nómina de COPE. Solo existe el bono de recompra |
-| Una persona de contenido (puede ser del equipo del proyecto) | Calendario de Instagram y piezas de la jornada | No pauta |
-| Una persona de campo, un día a la semana | Cuenta bandejas y bolsas en una muestra de tiendas | No reemplaza al vendedor |
-
-No hay agencia. No hay community manager pago fuera de los COP 700.000 de producción.
+**Qué pasa.** Se entrega a Distritiendas el tablero de los tres meses: síes por vendedor, displays, tiendas vivas, segunda pasada, venta. Se escribe el memorando de estrato 4 (sección 9). No se hace una factura de cierre para maquillar un mes corto.
 
 ---
 
-## 8. Hitos
+## 7. Hitos
 
 | Momento | Hito | Dueño | Señal de que salió | Señal de que hay que parar |
 |---|---|---|---|---|
-| Día 5 | Acta, 1.000 tiendas listas, bandejas pedidas, radio dentro o fuera del tope | David | La segunda visita queda escrita dentro del mes | Sin precio de los 30 millones no hay despacho |
-| Día 12 | 200 tiendas con 2 displays y conteo de salida | Vendedores + campo | Salió al menos media bolsa al día | Por debajo de eso no se abren las otras 800 |
-| Día 30 | Mes 1 en COP 30 millones | Comercial | 1.000 tiendas, cerca de 9 de cada 10 con segunda visita, 4.649 displays | Un mes corto no se tapa con carga que no rota |
-| Día 60 | Mes 2 otra vez en COP 30 millones | Comercial | Las mismas 1.000 reponen 4,6 displays | Si el mes 2 cae, el mes 3 no abre tiendas nuevas: solo repone las que sí rotan |
-| Día 90 | Mes 3 en COP 30 millones y trimestre en COP 90 millones | David | Tablero de los tres meses entregado a Distritiendas | Una factura de cierre para maquillar el promedio |
+| Antes de salir | A1 y A2 cerrados. Cuota distinta si Cali y La Viajera no ven las mismas tiendas al día | David | Cada vendedor sabe cuántos síes le tocan hoy y cuándo vuelve esa ruta | Sin saber si son 10 o 60 tiendas al día, la cuota de 3,6 es un promedio, no una orden |
+| Día 6 de ruta | Síes nuevos por vendedor | Los 14 | Promedio de al menos 2 síes nuevos al día, camino a 3,6 | Por debajo de 2: no se deja el segundo pedido de 3 displays |
+| Día 30 | Mes 1 en COP 30 millones | Comercial | Cerca de 9 de cada 10 tiendas con segunda pasada, 4.649 displays | Un mes corto no se tapa con carga que no rota |
+| Día 60 | Mes 2 otra vez en COP 30 millones | Comercial | Las mismas tiendas repiten 4,6 displays en la pasada de siempre | Si el mes 2 cae, el mes 3 no abre tiendas nuevas |
+| Día 90 | Mes 3 en COP 30 millones y trimestre en COP 90 millones | David | Tablero de síes, displays y venta entregado a Distritiendas | Una factura de cierre para maquillar el promedio |
 
 ---
 
-## 9. Indicadores
+## 8. Indicadores
 
 North star del trimestre: **tiendas que recompran**, no seguidores ni cuñas al aire. La codificación se cae por falta de salida, no por falta de ruido.
 
-### 9.1 Adelantados (se miran cada semana)
+### 8.1 Adelantados (se miran cada semana)
 
 | Indicador | Meta de gestión | Fuente del número |
 |---|---|---|
-| Visitas en las que el vendedor ofrece COPE con el guion | 100 % de las visitas a tiendas de la lista | Diseño del plan |
-| Tiendas con bandeja instalada y producto visible | 200 al día 12; 1.000 al día 30; las mismas 1.000 en los meses 2 y 3 | La meta de COP 30 millones `[CALC]` |
-| Primera compra = 2 displays, y segunda = 3 displays si ya salió la mitad | Cerca de 9 de cada 10 tiendas en el mes | La cuenta de 4.649 displays `[CALC]` |
+| Síes nuevos por vendedor por día | Camino a 3,6. Alarma si el promedio de los primeros 6 días baja de 2 | 1.000 tiendas ÷ 14 ÷ 20 días `[CALC]` |
+| Visitas de la ruta en las que se ofrece COPE | 100 % de las tiendas de estrato 2–3 de esa pasada | Diseño del plan |
+| Segunda pasada con 3 displays, solo si ya salió la mitad | Cerca de 9 de cada 10 tiendas en el mes | La cuenta de 4.649 displays `[CALC]` |
 | Jornadas hechas solo en cuadras ya surtidas | 4 de 4 | Diseño del plan |
 
-### 9.2 Rezagados (se miran al cierre de cada mes)
+### 8.2 Rezagados (se miran al cierre de cada mes)
 
 | Indicador | Mes 1 | Mes 2 | Mes 3 |
 |---|---:|---:|---:|
@@ -297,29 +262,20 @@ North star del trimestre: **tiendas que recompran**, no seguidores ni cuñas al 
 | Bolsas de 32 g | 27.894 | 27.894 | 27.894 |
 | Bolsas de 128 g | 0 en la meta | 0 en la meta | 0 en la meta |
 
-### 9.3 De contenido (sirven si mueven a la tienda)
+### 8.3 De contenido (sirven si mueven a la tienda)
 
 | Indicador | Meta | Por qué esta y no otra |
 |---|---|---|
 | Piezas con tienda y barrio nombrados | 3 por semana, todas | El activo ya existe (50.000). Lo que falta es el "dónde" |
 | Comentarios de "¿dónde lo compro?" respondidos con una tienda de la lista | 100 % en 24 horas | Después de Vaki esa pregunta ya apareció `[REUNIÓN]` |
-| Seguidores nuevos | No es meta | Comprarlos no está en el sobre y no llena la bandeja |
-| Pauta pagada | COP 0 | Nunca han pautado, y el cuello de botella no es el alcance |
-
-### 9.4 De economía del sobre
-
-| Indicador | Techo |
-|---|---|
-| Gasto acumulado | No pasa de COP 4,4 millones en el mes 1, COP 7,4 millones al cierre del mes 2, COP 10 millones al cierre |
-| Costo por tienda con bandeja | COP 2.200 de material si la cotización cabe; si no, menos tiendas |
-| Bonos pagados sin recompra | Cero |
-| Gasto en colegios | Cero |
+| Seguidores nuevos | No es meta | Un seguidor nuevo no es un sí del tendero |
+| Pauta pagada | No es el motor | La tienda la abre el vendedor, no un anuncio |
 
 ---
 
-## 10. Mejora durante los 90 días, y escalamiento a estrato 4
+## 9. Mejora durante los 90 días, y escalamiento a estrato 4
 
-### 10.1 Mejora (dentro del trimestre, sin plata nueva)
+### 9.1 Mejora (dentro del trimestre)
 
 Cada viernes se miran cuatro números: bandejas vivas, primera compra, recompra a 14 días, bolsas que quedan en una muestra de tiendas. Una sola reunión, una sola página.
 
@@ -328,27 +284,26 @@ Cada viernes se miran cuatro números: bandejas vivas, primera compra, recompra 
 | La bandeja está escondida o se cayó | El lugar (caja o bebidas) y el guion del vendedor | No se "compensa" con un reel |
 | Piden una vez y no vuelven dentro del mes | Ubicación de la bandeja y el día de la segunda visita. El tercer display gratis solo si alguien lo paga por fuera | No se baja el precio al público: el pack de 6 a COP 9.600 ya queda 20 % debajo del supermercado a COP 12.000 `[CALC]`. Tampoco se sube el primer pedido por encima de 2 displays para "llenar" la factura |
 | Un cluster recompra y el otro no | El volumen del mes se concentra en el que sí recompra, hasta donde dé la salida real | No se reparte carga pareja para que el promedio se vea bien |
-| La radio no cotizó dentro del tope | El cupo ya está en muestreo | No se busca una cuarta emisora |
+| Un vendedor no llega a 2 síes al día | Se escucha su guion en la siguiente salida | No se le suma territorio de otro para que el promedio del grupo se vea bien |
 
-**Criterios de abandono, escritos antes de gastar:**
+**Criterios de abandono:**
 
-- Día 12: salida menor a media bolsa al día en las 200 tiendas → no se abre el resto. Se corrige una semana. Un segundo conteo flojo detiene la carga de 3 displays.
+- Primeros 6 días de ruta: menos de 2 síes nuevos por vendedor por día → no se deja el pedido de 3 displays. Se corrige el guion un ciclo. Un segundo ciclo flojo detiene la carga.
 - Cierre de mes por debajo de COP 30 millones → el mes siguiente no abre tiendas nuevas. Solo repone las que sí vendieron. El promedio de 90 millones queda comprometido y se dice ese día.
 - Cualquier semana: sellos de advertencia o duda sobre el impuesto a ultraprocesados sin resolver → se apaga todo lenguaje de "natural" y se mantiene apagado el colegio.
 - Cualquier jornada propuesta dentro de un colegio → no se hace (anexo D).
 
-### 10.2 Escalamiento a tiendas de estrato 4
+### 9.2 Escalamiento a tiendas de estrato 4
 
-Estrato 4 no se paga con estos COP 10 millones. Es la fase siguiente, y solo se abre si las cuatro puertas de abajo están abiertas al cierre de la semana 13.
+Estrato 4 es la fase siguiente. Solo se abre si las puertas de abajo están abiertas al cierre del día 90. El costo de esa fase se define cuando se retomen los recursos.
 
 | Puerta | Por qué existe |
 |---|---|
 | El código en Distritiendas sigue vivo | Sin código no hay fase 2 de verdad |
 | Los tres meses cerraron en o sobre COP 30 millones, con segunda visita real | Estrato 4 no arregla un promedio que no se cumplió |
-| Hay un presupuesto **nuevo**, distinto de estos 10 millones | Este sobre no se reinvierte y no sobra |
 | El precio del pack de 6 no se baja más | En supermercado el pack se anotó cerca de COP 12.000. Otro descuento para "entrar a estrato 4" pelea con Éxito, Carulla y el resto del canal moderno `[REUNIÓN]` `[CALC]` |
 
-**Cómo se entra, cuando las puertas estén abiertas.** Mismo sistema, no una campaña nueva: bandeja, pedido sugerido, bono por recompra, mapa en Instagram. Se elige un solo corredor de estrato 4 en Cali (no Palmira, Yumbo, Jamundí y Darién a la vez). El tamaño de ese piloto es el que el presupuesto nuevo compre en bandejas, con la misma regla de COP por bandeja. La bolsa de 32 g sigue siendo la puerta, porque el 81 % de la venta de la tienda en hogares de nivel bajo está bajo COP 4.000 y estrato 4 no es un cambio de categoría: sigue siendo tienda (Editorial La República, 2026a). La de 128 g se ofrece donde la de 32 g ya recompra.
+**Cómo se entra, cuando las puertas estén abiertas.** El mismo sistema, con los vendedores que ya caminan ese corredor: pedido en la primera pasada y recompra en la siguiente. Se elige un solo corredor de estrato 4 en Cali. La bolsa de 32 g sigue siendo la puerta, porque el 81 % de la venta de la tienda en hogares de nivel bajo está bajo COP 4.000 (Editorial La República, 2026a). La de 128 g se ofrece donde la de 32 g ya recompra.
 
 **Qué puede mejorar el sistema antes de ese salto.**
 
@@ -358,12 +313,12 @@ Estrato 4 no se paga con estos COP 10 millones. Es la fase siguiente, y solo se 
 
 ---
 
-## 11. Riesgos
+## 10. Riesgos
 
 | Riesgo | Qué lo dispara | Mitigación | Contingencia |
 |---|---|---|---|
-| El presupuesto se va en medios y el estante sigue vacío | Cotización "amigable" de una emisora que igual se come el mes 2 | Tope escrito y fallback a muestreo en la semana 2 | Si alguien insiste en firmar por encima del tope, la firma no sale de este sobre |
-| Se factura el mes 1 con carga que no sale | Empujar 3 displays más el día 13 aunque el día 12 no se haya vendido | La puerta del día 12 es obligatoria. El bono de ruta no se paga sin segunda visita con salida | Si el conteo falla dos veces, se informa a Distritiendas que el promedio de 30 millones no se va a cumplir, y no se maquilla |
+| La radio se toma como el modo de crecer | Una cuña sale antes de que el vendedor tenga la tienda | La tienda la abre el vendedor del día. La radio solo nombra un barrio ya surtido | Si no hay tienda en ese barrio, no se nombra |
+| Se factura el mes con carga que no sale | Dejar 3 displays más aunque en 6 días no haya 2 síes al día | La puerta de los 6 días es obligatoria | Si el segundo ciclo también falla, se informa a Distritiendas que el promedio de 30 millones no se va a cumplir, y no se maquilla |
 | Conflicto con supermercados | El pack de 6 en tienda queda en COP 9.600 contra COP 12.000 | No bajar más el precio; no usar el supermercado como plaza de la activación | Si un cliente moderno reclama, se pausa la comunicación de precio y se habla con David antes de seguir |
 | Colegio y menores | Jornada o sampling dentro de la institución, o regalos a niños | COP 0 en colegios; la lonchera se habla con el adulto en la tienda de la esquina | Cualquier propuesta escolar se rechaza hasta leer el decreto y la etiqueta |
 | Claims de salud | Un reel dice "natural" o "saludable" sin etiqueta | Guion aprobado con cuatro palabras permitidas: casero, receta, abuela, sabor | Se baja la pieza |
@@ -372,15 +327,15 @@ Estrato 4 no se paga con estos COP 10 millones. Es la fase siguiente, y solo se 
 
 ---
 
-## 12. Autoevaluación contra la rúbrica
+## 11. Autoevaluación contra la rúbrica
 
 | Criterio | Nivel estimado | Qué falta para un 5 cerrado |
 |---|---|---|
 | Diagnóstico | 4 | Confirmar A1 (a qué precio son los COP 30 millones) y la etiqueta nutricional |
 | Soluciones | 4 | La variante del tercer display no tiene dueño de costo; sin eso, la opción 3 opera solo en su versión sin regalo |
 | Descripción | 5 | El flujo de la jornada, la bandeja, el bono y el contenido están descritos con usuarios y orden |
-| Valor y viabilidad | 4 | Faltan costo de producto, costo de bandeja y precio de 128 g. El sobre de COP 10 millones sí está cerrado al peso |
-| Roadmap y escala | 5 | Hay fases, hitos, recursos, indicadores, abandono y la puerta a estrato 4 con presupuesto distinto |
+| Valor y viabilidad | 4 | Faltan costo de producto, precio de 128 g y la lectura real de las 60 tiendas. Los recursos quedaron fuera a propósito |
+| Roadmap y escala | 4 | Hay fases, hitos, indicadores y estrato 4. Los recursos se retoman después |
 
 ---
 
@@ -431,32 +386,6 @@ Insumos `[REUNIÓN]`. Aritmética `[CALC]`.
 
 **Conclusión del anexo.** El promedio de COP 30 millones se persigue con la bolsa de 32 g, dos veces al mes, en las mismas 1.000 tiendas. Las 3.000 pequeñas de la mezcla cubren el 10,8 % de un solo mes. Las 2.000 grandes no entran en esta cuenta.
 
-## Anexo B. Presupuesto listo para pegar en la hoja de control
-
-Porcentajes sobre COP 10.000.000. No sobre ventas.
-
-| Mes | % del sobre | Pesos | Acumulado permitido | Ingreso del mes |
-|---|---:|---:|---:|---:|
-| 1 | 44 % | 4.400.000 | 4.400.000 | 30.000.000 |
-| 2 | 30 % | 3.000.000 | 7.400.000 | 30.000.000 |
-| 3 | 26 % | 2.600.000 | 10.000.000 | 30.000.000 |
-
-Regla de no reinversión: vender COP 30 millones en un mes no autoriza un peso más de jornada, cuña o bandeja.
-
-Regla de la radio: en el día 5, "cabe" o "no cabe". Si no cabe, la fila de radio se suma a muestreo y el total del mes no cambia. No hay pauta de radio en el mes 1.
-
-| Línea | % | Pesos |
-|---|---:|---:|
-| Bandeja y exhibición | 22 % | 2.200.000 |
-| Bono por recompra | 18 % | 1.800.000 |
-| Muestreo | 17 % | 1.700.000 |
-| Activación de barrio | 12 % | 1.200.000 |
-| Radio (tope) | 16 % | 1.600.000 |
-| Producción con la abuela | 7 % | 700.000 |
-| Medición | 8 % | 800.000 |
-| Colegios | 0 % | 0 |
-| **Total** | **100 %** | **10.000.000** |
-
 ## Anexo C. Fichas de evidencia del ICP y del producto nuevo
 
 ### C1. El tendero no se mueve por el margen de COPE
@@ -475,7 +404,7 @@ Regla de la radio: en el día 5, "cabe" o "no cabe". Si no cabe, la fila de radi
 ### C3. La tienda sigue siendo donde se gana la categoría
 
 - **Dato.** Cerca de 37 % del consumo masivo pasa por la tienda (NIQ, agosto de 2026, citado por La Nota Económica, 2026, y Editorial La República, 2026b). Cerca de 4 de cada 10 pesos de snacks, en otra lectura de canal (Bermeo, 2025). `[EXT-B]`
-- **Uso.** Justifica el canal. No justifica gastar el sobre en Rappi, que el cliente asocia a estratos 5 y 6 `[REUNIÓN]` y que este plan no usa.
+- **Uso.** Justifica el canal de tienda. Rappi, que el cliente asocia a estratos 5 y 6 `[REUNIÓN]`, no abre estas tiendas.
 
 ### C4. Un producto nuevo se prueba antes de lo que se repite
 
@@ -507,7 +436,7 @@ Regla de la radio: en el día 5, "cabe" o "no cabe". Si no cabe, la fila de radi
 2. **Norma local.** La Alcaldía de Cali informa el Decreto 4112.010.20.0918 de 2023 (también citado como Decreto 918 de 2023), asociado al Plan Local de Alimentación Totalmente Saludable, para la oferta de las tiendas escolares del sistema oficial, con salida progresiva de productos con sellos (Alcaldía de Santiago de Cali, s. f.). Prensa posterior describe un alcance que incluye colegios públicos y privados, y el retiro de publicidad de ultraprocesados dentro de los colegios (El País, s. f.; Publimetro, 2025). `[EXT-B]` para la prensa; la nota de la Alcaldía es fuente oficial sobre el sistema oficial.
 3. **Lo que no está leído.** El PDF del decreto no se incorporó a este roadmap. La etiqueta de COPE tampoco (ambigüedad A10). Sin las dos, no se sabe si el producto tiene sellos ni si un colegio privado de Yumbo, Palmira, Jamundí o Darién cae en una regla parecida.
 4. **Decisión.** Cero pesos, cero jornadas, cero sampling dentro de colegios públicos o privados en estos 90 días. La lonchera, si aparece, es una ocasión de consumo del **adulto** en la tienda de barrio, que es el canal que Distritiendas sí abre.
-5. **Qué la levantaría.** Etiqueta sin sellos que impidan la venta, concepto escrito de la Secretaría de Educación del municipio, y un presupuesto distinto. Ninguna de las tres está hoy.
+5. **Qué la levantaría.** Etiqueta sin sellos que impidan la venta, y concepto escrito de la Secretaría de Educación del municipio. Ninguna de las dos está hoy.
 
 ## Anexo E. Sistema de contenido (Instagram, sin pauta)
 
@@ -609,10 +538,10 @@ Wilson, A. L., Buckley, E., Buckley, J. D., & Bogomolova, S. (2016). Nudging hea
 | # | Decisión | Supuesto con el que este roadmap sí avanza | Qué lo tumba |
 |---|---|---|---|
 | A1 | ¿Los COP 30 millones son a precio del tendero? | Sí | Si son a precio de COPE al distribuidor, baja el volumen y se rehacen las tablas |
-| A2 | ¿5.040 son tiendas únicas? | No. Son visitas por ciclo | Si son únicas y se visitan una vez al mes, el techo de cobertura es ese, y la densidad de 1.000 sigue siendo la meta |
+| A2 | ¿60 tiendas en 6 días, o 60 al día? | Las dos lecturas están en la sección 4.4. La cuota hacia 1.000 tiendas es 3,6 síes nuevos por vendedor por día | Si cada vendedor solo ve 10 tiendas al día, 840 tiendas × 4,6 displays quedan cerca de COP 25 millones, no en 30 |
 | A3 | ¿3.000 pequeñas y 2.000 grandes, o al revés? | 3.000 pequeñas y 2.000 grandes, como pide este encargo | La reunión dijo lo contrario. Una frase de David lo cambia |
 | A4 | Precio de 128 g en tienda | No se vende la grande hasta tenerlo | Un precio cerca de COP 19.900 al público queda descartado por el anexo A |
-| A5 | ¿Quién paga el tercer display? | Nadie, dentro de los COP 10 millones | Si lo pagan por fuera, nace la variante A del piloto |
-| A9 | Costo de la bandeja | Tiene que ser ≤ COP 2.200 para llegar a 1.000 tiendas con esta línea | Si cuesta más, se recortan tiendas, no se recorta el muestreo |
+| A5 | ¿Quién paga el tercer display? | Este documento no lo asigna. Se retoma con los recursos | Si alguien lo financia, puede existir como variante. Si no, el pedido es 2 y luego 3, ambos pagados |
+| A9 | Costo de la bandeja | No se usa para recortar tiendas en este texto | Se retoma cuando se reabra el tema de recursos |
 | A10 | Etiqueta, sellos, impuesto a ultraprocesados | No se dice "saludable" y no se entra a colegios | Una etiqueta limpia no abre el colegio por sí sola; hace falta el concepto de la Secretaría |
-| Radio | Cotización solo de Cali: Mega 92.5, Tropicana 93.1, Mix Radio 101.5 (Olímpica) | No se compra salvo paquete local ≤ COP 1.600.000 que nombre barrio y tienda | Se rechaza la tarifa de lista, el reloj nacional y cualquier Mix que no sea la 101.5 de Cali |
+| Radio | Si se usa, solo señal de Cali: Mega 92.5, Tropicana 93.1, Mix Radio 101.5 (Olímpica) | No abre tiendas. Solo nombra un barrio ya surtido. El costo se retoma con los recursos | Se rechaza cadena nacional y cualquier Mix que no sea la 101.5 de Cali |
